@@ -44,3 +44,21 @@
      background-color: darken(#d9534f, 20%) !important;
    }
  }
+
+@media screen and (max-width: 991px) {
+  .search-button {
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 505px) {
+  .friend-action-button {
+    margin: 1px;
+  }
+}
+
+@media screen and (max-width: 602px) {
+  .friend-lookup-button {
+    margin: 1px;
+  }
+}
